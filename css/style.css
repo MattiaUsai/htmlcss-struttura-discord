@@ -37,3 +37,13 @@
 .container.nove {
     max-width: 900px;
 }
+.square.blu{
+    background-color: blue;
+    width: 60%;
+    height: 400px;
+}
+.square.red{
+    background-color: lightcoral;
+    width: 40%;
+    height: 400px;
+}
