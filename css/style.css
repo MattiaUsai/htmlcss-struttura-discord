@@ -11,10 +11,13 @@
 }
 .container{
     max-width: 1200px;
-    background-color: beige;
     display: flex;
     font-size: x-large;
     margin:  auto;
+
+}
+.square{
+    border: 3px dashed black;
 }
 .hdiv{
     width: 25%;
@@ -46,4 +49,19 @@
     background-color: lightcoral;
     width: 40%;
     height: 400px;
+}
+.green{
+    background-color: green;
+    height: 800px;
+    width: 100%;
+}
+.beige{
+    width: 18%;
+    height: 550px;
+    background-color: beige;
+}
+.rose{
+    width: 28%;
+    height: 550px;
+    background-color: pink;
 }
