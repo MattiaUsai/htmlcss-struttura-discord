@@ -7,7 +7,7 @@
     width: 100%;
     background-color: aqua;
     border: 3px solid black;
-    padding: 10px;
+    padding: 30px;
 }
 .container{
     max-width: 1200px;
@@ -28,4 +28,12 @@
 }
 .hdivs.hdiv{
     text-align: right;
+}
+.pink{
+    background-color: palevioletred;
+    height: 300px;
+    width: 100%;
+}
+.container.nove {
+    max-width: 900px;
 }
